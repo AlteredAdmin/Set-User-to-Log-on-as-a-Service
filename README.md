@@ -1,3 +1,5 @@
+# Experimental: Use at your own risk!
+
 # Set User to Log on as a Service
 
 This PowerShell script is designed to automate the process of granting the "Log on as a service" permission to a specified user in Windows environments. It simplifies the process for system administrators and ensures consistency in security settings across multiple systems.
